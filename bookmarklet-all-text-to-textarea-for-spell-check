@@ -1,0 +1,1 @@
+javascript:(function(){var%20rewin%3Dopen('')%3Brewin.document.write('%3C!doctype%20html%3E%3Chtml%3E%3Chead%3E%3Ctitle%3EX%3C%2Ftitle%3E%3Cbody%3E%3Ctextarea%20style%3D%22width%3A99%25%3Bheight%3A95vh%22%3E%3C%2Ftextarea%3E')%3Brewin.document.body.lastChild.value%3Ddocument.body.innerText%3Brewin.document.close()%3B})();

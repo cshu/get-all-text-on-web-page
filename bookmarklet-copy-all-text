@@ -1,0 +1,1 @@
+javascript:(function(){var%20tem_text%3Ddocument.createElement('textarea')%3Btem_text.value%3Ddocument.body.innerText%3Bdocument.body.appendChild(tem_text)%3Btem_text.select()%3Bdocument.execCommand('copy')%3Bdocument.body.removeChild(tem_text)%3B})();
